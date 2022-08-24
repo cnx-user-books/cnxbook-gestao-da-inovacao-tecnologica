@@ -1,15 +1,16 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pt-br">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="pt-br" authors="Edson Leal Menezes Neto">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col10675</md:content-id>
-    <md:title>Gestão da Inovação Tecnológica</md:title>
+    <md:title>Gest&#xE3;o da Inova&#xE7;&#xE3;o Tecnol&#xF3;gica</md:title>
     <md:language>pt-br</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>b3b6fda8-4396-44f7-8035-31476f6d46e4</md:uuid>
-<md:slug>gestao-da-inovacao-tecnologica</md:slug>
-</metadata>
+    <md:slug>gestao-da-inovacao-tecnologica</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
-      <md:title>Definições</md:title>
+      <md:title>Defini&#xE7;&#xF5;es</md:title>
       <col:content>
         <col:module document="m20407"/>
       </col:content>
